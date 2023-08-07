@@ -10,3 +10,5 @@ def mayor_lista(lista):
 lista = [1,6,76,34,36]
 mayor_list = mayor_lista(lista)
 print('El numero mayor de la lista es: ',mayor_list)
+
+print('modificacion desde visual code')
